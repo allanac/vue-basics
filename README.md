@@ -1,6 +1,6 @@
-# y
+# Starter View App
 
-> y
+> View app practice
 
 ## Build Setup
 
